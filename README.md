@@ -1,4 +1,4 @@
 # DIoT24
 ## M6projekt
 
-Arduino Cloud
+Arduino IoT Cloud Smart-home Climate
